@@ -1,8 +1,3 @@
-# - 
-# This fork is no longer maintained, and will be deleted entirely soon (some time in December 2014) - without further notification.
-# Any interested parties are encouraged to fork before then.
-# -
-
 
 # Sickbeard for Torrents
 
